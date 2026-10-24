@@ -32,11 +32,11 @@ El juego se publica aquí **con el permiso de Nick (Nicolás) Lekuona**, program
 
 ## Cómo jugar
 
-### En cinta (TZX)
+### En cinta para ZX Spectrum 48K (TZX)
 
 Abre `tzx/Megacorp1_RAM.tzx` en cualquier emulador de Spectrum 48K o superior y carga con `LOAD ""`, como el original. La segunda parte es `tzx/Megacorp2_RAM.tzx`. Al empezarla, el juego pide la clave que se obtiene al terminar la primera.
 
-### En disco para Spectrum +3 (DSK)
+### En disco para ZX Spectrum +3 (DSK)
 
 Cada parte del juego ocupa un disco: `Megacorp1_RAM.dsk` contiene la primera y `Megacorp2_RAM.dsk` la segunda. Los ficheros DSK pueden usarse en un emulador o grabarse en un disquete para jugar en un Spectrum +3 real, tanto de 3 pulgadas (la unidad original del +3) como de 3,5 pulgadas (en un +3 con unidad de 3,5).
 
