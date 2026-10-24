@@ -1,6 +1,6 @@
 # Mega-Corp con RAMSAVE y RAMLOAD
 
-*Mega-Corp* es una aventura conversacional para ZX Spectrum 48K publicada por Dinamic en 1987, en dos partes. Este repositorio contiene una versión modificada del juego original a la que se han añadido dos órdenes que no tenía:
+*Mega-Corp* es una aventura conversacional para ZX Spectrum, Amstrad CPC, C64, MSX y PC DOS publicada por Dinamic en 1987, en dos partes. Este repositorio contiene una versión modificada del juego original a la que se han añadido dos órdenes que no tenía:
 
 - **RAMSAVE**: guarda la partida en la memoria, al instante y sin cinta.
 - **RAMLOAD**: recupera la partida guardada y vuelve a describir la localidad.
