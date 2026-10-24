@@ -1,0 +1,8 @@
+*.tzx binary
+*.dsk binary
+*.exe binary
+*.zip binary
+*.asm text eol=lf
+*.py  text eol=lf
+*.md  text eol=lf
+*.txt text

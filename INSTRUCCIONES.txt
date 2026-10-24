@@ -1,0 +1,182 @@
+MEGACORP
+
+En el siglo XXII el Universo se halla dominado por dos grandes fuerzas nacidas
+tras decenios de grandes guerras: el Imperio y la federación Hark. Gobiernos
+expansionistas ambos, sus roces de fronteras son casi constantes.
+
+En el seno del Imperio el Mayor poder, tras el mismo Emperador, son las
+MegaCorporaciones, asociaciones financieras que controlan todos y cada uno de
+los aspectos de las vidas de los ciudadanos. Con poder de vida o muerte, estas
+Mega-Corp, como son familiarmente llamadas extienden sus tentáculos por el
+Cosmos en busca de riquezas que extraer o, llegando el caso, arrebatar.
+
+El sistema federativo consiste en la "adopción" bajo su tutela de sistemas
+planetarios tecnológicamente pobres por lo general, aunque ricos en materiales
+o mano de obra que son empleados invariablemente en la mejora de los recursos
+de los originarios planetas Hark.
+
+Fiel reflejo de los errores de todos los sistemas financiero-políticos de la
+historia, Imperio y federación se yerguen como poseedores del Universo. Utopía
+no existe.
+
+FX DOBLE CARGA
+==============
+
+Este programa tiene dos partes, cada una grabada en una de las caras de la
+cinta.
+
+Para jugar a la segunda, es necesario descubrir el código de acceso que se
+encuentra al terminar la primera.
+
+OBJETIVOS DE LA MISION:
+=======================
+
+Como ejecutivo de una MEGA-CORP, debes guiar a tu agente operativo hasta
+hacerte on el control de la situación en el planeta GEA-3.
+
+Deberás ayudando a los grupos rebeldes, derribar al gobierno, actualmente en
+manos de "la federación".
+
+Tu nave aterrizará en la extensión boscosa que rodea la base rebelde.
+
+Cruza el lago, pasa el control policial y encuentra a tu enlace que se
+identificará por su condición de mercader en pieles, a partir de aquí sigue
+sus instrucciones.
+
+La misión es arriesgada pero la recompensa es grande, si consigue que GEA-3
+pase a poder imperial, la recompensa te hará inmensamente rico.
+
+COMO SE JUEGA:
+==============
+
+La pantalla está dividida en dos partes: la superior, que tendrá un dibujo
+representativo del lugar donde se encuentre el agente, y la inferior, en la
+que aparecerá un texto. Este texto describirá el lugar y contendrá también los
+mensajes que el ordenador, como árbitro del juego, vaya enviando.
+
+Bajo estos textos se encuentra un cursor parpadeante, a la espera de órdenes.
+Ahí es donde el jugador indicará las acciones que quiere se ejecuten,
+escribiéndolas en un lenguaje directo y hablando a "EL", en segunda persona;
+por ejemplo: "COGE LA MONEDA", "TIRATE AL AGUA", etc.
+
+Caso de no ser realizable alguna acción de las que sean indicadas el ordenador
+lo hará saber emitiendo el mensaje apropiado (NO PUEDO HACER ESO, NO TENGO LO
+NECESARIO, etc.).
+
+COMANDOS:
+=========
+
+NORTE (N), SUR (S), ESTE (E), OESTE (O), ABRE, APRIETA, AYUDA, COGE, CURA,
+DEJA, DISPARA, ENTRA, EXAMINA, PULSA, SAL, LOAD, SAVE, RAMLOAD, RAMSAVE, REMA,
+BUCEA, SUBE, BAJA, MATA, TIRA, etc.
+
+Comandos especiales:
+
+I: Inventario; lista los objetos llevados por el personaje.
+
+R: Redescribe; da una corta descripción del lugar, de las salidas más obvias y
+de aquellos objetos presentes en el lugar.
+
+D: Detalla; ofrece una más extensa descripción del lugar (muy útil).
+
+SAVE: Permite salvar en cinta la situación en que hayamos quedado al término
+de una sesión de juego.
+
+LOAD: Permite, al iniciar un nuevo juego, volver a empezar a partir de donde
+quedamos la última vez, evitando el tener que volver a repetir todos los
+movimientos.
+
+RAMSAVE: Guarda en la memoria del ordenador, al instante y sin necesidad de
+cinta, la situación en que nos encontremos. Sólo se conserva una situación:
+cada RAMSAVE sustituye a la anterior. No consume turno.
+
+RAMLOAD: Recupera la situación guardada con RAMSAVE y vuelve a describir el
+lugar. No consume turno. La situación guardada se pierde al apagar o
+reiniciar el ordenador; para conservarla entre sesiones utiliza SAVE.
+
+FIN: Acaba el juego, ofreciendo un informe de los puntos obtenidos, etc.
+
+CONSEJOS PARA PRINCIPIANTES
+===========================
+
+Utiliza SIEMPRE la opción "D" (Detalla). Te ofrecerá valiosa información.
+
+Examina TODO lo que te rodea. Algunas cosas pueden no ser lo que parecen.
+
+Armate de papel y lápiz, toma notas de lo que creas importante. No olvides
+hacer un MAPA de los lugares por donde vas pasando; hay más de los que piensas
+y podrías perderte con facilidad.
+
+Utiliza las opciones SAVE y/o RAMSAVE a menudo. Te ahorrará esfuerzos más tarde.
+
+Usa tu LOGICA. No intentes hacer cosas irracionales; no servirán de nada.
+
+No seas impaciente y MEDITA los problemas, no tienes que acabar la aventura en
+una tarde. Siempre puedes volver a intentarlo otro dia.
+
+EQUIPO DE DISEÑO
+================
+
+PROGRAMA: NICOLAS LECUONA
+GRAFICOS: LUIS FRANCO
+PANTALLA DE PRESENTACIÓN: JAVIER CUBEDO
+ILUSTRACION: ALFONSO AZPIRI
+
+ESTE PROGRAMA ESTA DESARROLLADO CON EL GRAPHIC ADVENTURE CREATOR DE INCENTIVE
+SOFTWARE.
+
+GARANTIA
+========
+DINAMIC garantiza todos sus productos de cualquier fallo o defecto de
+fabricacion, grabación o carga. La garantía finaliza en la fecha que el
+producto queda descatalogado y se agotan las existencias. Este programa
+está fabricado de acuerdo a los más elevados nivlees de calidad
+técnica. Por favor, lea con atención las instrucciones de carga. Si por
+algún motivo tiene dificultad en hacer funcionar el programa y cree que
+el producto es defectuoso, devuélvalo directamente a
+
+        DINAMIC. PLAZA DE ESPAÑA, 18, TORRE DE MADRID, 27-5
+                          28008 MADRID
+
+A la vuelta de correo le enviaremos una nueva copia totalmente gratis.
+
+PROGRAMADORES
+=============
+¿Has hecho algún programa? ¿Eres diseñador gráfico?
+Anímate, envia tu trabajo en una cassette y recibirás nuestra
+respuesta.
+
+COPYRIGHT 1987 DINAMIC
+======================
+PROHIBIDA LA REPRODUCCION, RADIODIFUSION, TRANSMISION, ALQUILER O
+PRESTAMO DE ESTE PROGRAMA SIN LA AUTORIZACION EXPRESA ESCRITA DE
+MICRODIGITAL SOFT. S.A.
+DINAMIC ES UNA MARCA REGISTRADA POR MICRODIGITAL SOFT. S.A.
+
+INSTRUCCIONES DE CARGA
+======================
+SPECTRUM 48k.+
+1.Conecta la salida EAR del SPECTRUM con la salida EAR del cassette.
+2.Rebobina la cinta hasta el principio.
+3.Ajusta el volumen a 3/4 del máximo.
+4.Tecla LOAD "" y pulsa ENTER (INTRO).
+5.Presiona PLAY en el cassette.
+6.El programa se cargará automáticamente.
+7.Si no lo hace repetir la operación con distinto volumen.
+
+SPECTRUM +2
+1.Selecciona con el cursor la opción 48 BASIC y pulsa INTRO.
+2.Sigue después las instrucciones del SPECTRUM 48k. (Ten en cuenta que
+en el +2 está ya ajustado el volumen)
+
+SPECTRUM +3 (CINTA)
+1.Conecta el cassette a la entrada TAPE del SPECTRUM +3.
+2.Selecciona con el cursor la opción 48 BASIC y pulsa INTRO.
+3.Sigue después las instrucciones del SPECTRUM 48k.
+
+SPECTRUM +3 (DISCO)
+1.Introduce el disco de la parte que quieras jugar en la unidad A.
+2.Selecciona con el cursor la opción Cargador y pulsa INTRO.
+3.El programa se cargará automáticamente.
+4.Si aparece el mensaje "Error de disco", comprueba el disco y repite la
+operación.
